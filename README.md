@@ -1,1 +1,1 @@
-# GitProject
+# [Bài Tập]: Sử dụng Git
